@@ -4,10 +4,10 @@ A new Flutter project.
 
 ## Getting Started
 <p float="left">
-    <img src="./images/splash.jpeg" alt="Scavenger hunt location selection" width="250">
-	<img src="./images/login.jpeg" alt="Scavenger hunt view" width="250">
-	<img src="./images/home.jpeg" alt="Results view" width="250">
-    <img src="./images/details.jpeg" alt="Results view" width="250">
+    <img src="./assets/images/splash.jpeg" alt="Scavenger hunt location selection" width="250">
+	<img src="./assets/images/login.jpeg" alt="Scavenger hunt view" width="250">
+	<img src="./assets/images/home.jpeg" alt="Results view" width="250">
+    <img src="./assets/images/details.jpeg" alt="Results view" width="250">
 </p>
 This project is a starting point for a Flutter application.
 
